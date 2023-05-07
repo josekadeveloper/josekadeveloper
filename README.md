@@ -2,7 +2,7 @@
 👯 Team building<br>🤝 I love helping people, learning with them and letting them learn<br>💬 Instead of thinking about the problem, I always think about the solution<br>⚡ Creative and Proactive
 
 ![app](/Api.gif)
-Visit MyPortfolio here -> [![MyPortfolio](https://img.shields.io/badge/MyPortfolio-%230077B5.svg?logo=profile&logoColor=white)](https://react-portfolio-dashboar-e457f.web.app/)
+[![MyPortfolio](https://img.shields.io/badge/MyPortfolio-%230077B5.svg?logo=profile&logoColor=white)](https://react-portfolio-dashboar-e457f.web.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-carlos-de-la-rosa-methvin-793236159/) 
